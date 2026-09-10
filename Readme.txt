@@ -1,1 +1,1 @@
-Hola
+La idea es crear una aplicación web que permita gestionar un horario semanal de forma aleatoria respetando los horarios de sueño y comidas.
